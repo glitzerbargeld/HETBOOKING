@@ -105,3 +105,6 @@ dist
 
 #Node Modules
 node_modules
+
+#VS Code
+.vscode
