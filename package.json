@@ -1,0 +1,14 @@
+{
+  "name": "hetbooking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Torben Jäckel",
+  "license": "ISC",
+  "devDependencies": {
+    "@easepick/bundle": "^1.2.0"
+  }
+}
